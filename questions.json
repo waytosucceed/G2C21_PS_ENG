@@ -1,0 +1,336 @@
+{
+  "heading": "Sentence, Fragments and Run-on",
+  "topics": [
+    {
+      "heading": "Sentence, Fragments and Run-on",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "A complete sentence ends with a ______.",
+          "options": [
+            {
+              "text": ".",
+              "image": "./assests/images/option/1.png"
+
+            },
+            {
+              "text": ",",
+              "image": "./assests/images/option/2.png"
+            },
+            {
+              "text": "?",
+              "image": "./assests/images/option/3.png"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Most sentences end with a full stop (.)."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: A run-on sentence has too many _____ without stops.",
+          "options": [
+            {
+              "text": "words"
+            },
+            {
+              "text": "letters"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A run-on sentence has multiple ideas joined together without any full stop or a comma."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which is a complete sentence?",
+          "options": [
+            {
+              "text": "The red ball."
+            },
+            {
+              "text": "Bouncing high."
+            },
+            {
+              "text": "I bounce the ball."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This has a subject (I) and a predicate (bounce), making it a complete thought."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which is a fragment?",
+          "options": [
+            {
+              "text": "Cats meow."
+            },
+            {
+              "text": "Soft and fluffy."
+            },
+            {
+              "text": "Dogs bark loudly."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a fragment because it doesn't have a subject."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank: A good sentence needs a subject and a ____.",
+          "options": [
+            {
+              "text": "object"
+            },
+            {
+              "text": "predicate"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Every complete sentence needs a subject (who or what) and a predicate (the action)."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which is a run-on sentence?",
+          "options": [
+            {
+              "text": "I play games."
+            },
+            {
+              "text": "We sing songs we dance we have fun."
+            },
+            {
+              "text": "They read books."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a run-on because it has multiple complete thoughts without any comma or a full stop."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which sentence is correct?",
+          "options": [
+            {
+              "text": "the cat sleeps."
+            },
+            {
+              "text": "The cat Sleeps."
+            },
+            {
+              "text": "The cat sleeps."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence starts with a capital letter and ends with a full stop."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank: A _____ is a short, incomplete sentence.",
+          "options": [
+            {
+              "text": "fragment"
+            },
+            {
+              "text": "run-on"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A fragment is an incomplete sentence missing important parts."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which is not a run-on sentence?",
+          "options": [
+            {
+              "text": "I like apples and bananas."
+            },
+            {
+              "text": "I like apples I like bananas I like oranges."
+            },
+            {
+              "text": "Apples are red bananas are yellow."
+            }
+          ],
+          "answer": 0,
+          "explanation": "This sentence correctly joins two ideas with 'and'."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which is a complete sentence?",
+          "options": [
+            {
+              "text": "The big elephant."
+            },
+            {
+              "text": "Walking slowly."
+            },
+            {
+              "text": "Elephants eat leaves."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This has a subject (Elephants) and a predicate (eat), making it a complete thought."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which is a fragment?",
+          "options": [
+            {
+              "text": "We play."
+            },
+            {
+              "text": "In the park."
+            },
+            {
+              "text": "They run fast."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a fragment because it doesn't have a subject."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which sentence needs fixing?",
+          "options": [
+            {
+              "text": "I love pizza."
+            },
+            {
+              "text": "Do you like ice cream?"
+            },
+            {
+              "text": "She reads books she writes stories."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This is a run-on sentence and needs a comma or a full stop between the two thoughts."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank: A sentence tells a complete ____.",
+          "options": [
+            {
+              "text": "thought"
+            },
+            {
+              "text": "thing"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A sentence expresses a complete idea or thought."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which is a complete sentence?",
+          "options": [
+            {
+              "text": "The funny clown."
+            },
+            {
+              "text": "Laughing loudly."
+            },
+            {
+              "text": "Children laugh at the clown."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This has a subject (Children) and a predicate (laugh), making it a complete thought."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which is a run-on sentence?",
+          "options": [
+            {
+              "text": "The sun is bright."
+            },
+            {
+              "text": "The moon is pretty it shines at night."
+            },
+            {
+              "text": "Stars twinkle in the sky."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a run-on because it has two complete thoughts without any full stop or a comma."
+        },
+        {
+          "questionNo": 16,
+          "question": "Fill in the blank: A _____ sentence has too many ideas stuck together.",
+          "options": [
+            {
+              "text": "run-on"
+            },
+            {
+              "text": "fragment"
+            }
+          ],
+          "answer": 0,
+          "explanation": "A run-on sentence incorrectly joins multiple complete thoughts."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which is not a complete sentence?",
+          "options": [
+            {
+              "text": "Frogs jump."
+            },
+            {
+              "text": "Green and slimy."
+            },
+            {
+              "text": "Fish swim fast."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a fragment because it doesn't have a subject."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which sentence is correct?",
+          "options": [
+            {
+              "text": "we love to play."
+            },
+            {
+              "text": "We love To play"
+            },
+            {
+              "text": "We love to play."
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence starts with a capital letter and ends with a full stop."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank: A good writer uses complete _____ to share ideas.",
+          "options": [
+            {
+              "text": "sentences"
+            },
+            {
+              "text": "fragments"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Complete sentences help writers express their ideas clearly."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which is a fragment?",
+          "options": [
+            {
+              "text": "Birds sing."
+            },
+            {
+              "text": "In the trees."
+            },
+            {
+              "text": "Squirrels climb branches."
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a fragment because it doesn't have a subject or a predicate."
+        }
+      ]
+    }
+  ]
+}
